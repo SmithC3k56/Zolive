@@ -1,0 +1,15 @@
+[submodule "zolive_api"]
+	path = zolive_api
+	url = ssh://git@git.zozoteam.dev:7999/zol/zolive_api.git
+[submodule "zolive_db"]
+	path = zolive_db
+	url = ssh://git@git.zozoteam.dev:7999/zol/zolive_db.git
+[submodule "zolive_api_service"]
+	path = zolive_api_service
+	url = ssh://git@git.zozoteam.dev:7999/zol/zolive_api_service.git
+[submodule "zolive_model"]
+	path = zolive_model
+	url = ssh://git@git.zozoteam.dev:7999/zol/zolive_model.git
+[submodule "zolive_unit_test"]
+	path = zolive_unit_test
+	url = ssh://git@git.zozoteam.dev:7999/zol/zolive_unit_test.git

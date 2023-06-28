@@ -1,0 +1,16 @@
+2022-04-02 10:38:52 Submit parameter information Start:
+2022-04-02 10:38:52 Submit parameter information _REQUEST:{
+ "lan":"En",
+ "uid":45231,
+ "token":"1a28dffa12998e85d4125811708b4cce",
+ "time":1648870728,
+ "sign":"8ec44860ea7af82de81d49e47548fcf5"   
+}
+2022-04-02 10:39:01 Submit parameter information Start:
+2022-04-02 10:39:01 Submit parameter information _REQUEST:{
+ "lan":"En",
+ "uid":45231,
+ "token":"1a28dffa12998e85d4125811708b4cce",
+ "time":1648870728,
+ "sign":"8ec44860ea7af82de81d49e47548fcf5"   
+}
